@@ -42,6 +42,11 @@ mainSections = ["posts"]
   icon = "fa fa-map-marker"
   title = "Baseballmapper"
   url = "http://www.baseballmapper.com"
+  
+  [[params.socialIcons]]
+  icon = "fab fa-flickr"
+  title = "Flickr"
+  url = "https://www.flickr.com/photos/189563624@N02/page2"
 
 [taxonomies]
   series = "series"
