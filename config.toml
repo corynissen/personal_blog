@@ -21,7 +21,7 @@ builtWith = false
 mainSections = ["posts"]
 
 ## Set custom theme color.
- themeColor = "#8c8c8c"
+ themeColor = "#257ce3"
 
   [[params.socialIcons]]
   icon = "fab fa-linkedin"
@@ -55,12 +55,6 @@ mainSections = ["posts"]
   weight = 100
   identifier = "posts"
   url = "/posts/"
-
-  [[menu.main]]
-  name = "Categories"
-  weight = 200
-  identifier = "categories"
-  url = "/categories/"
 
   [[menu.main]]
   name = "Tags"
