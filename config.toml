@@ -11,6 +11,7 @@ paginate = 5
 [params]
 title = "Cory Nissen"
 description = "Blog"
+author = "Cory Nissen"
 gravatar = "corynissen@gmail.com"
 images = ["images/profile.jpg"]
 profilePicture = "images/profile.jpg"

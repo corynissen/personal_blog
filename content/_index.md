@@ -1,5 +1,5 @@
 +++
-title = "Soho Theme"
-author = "Hugo Authors"
+title = "Cory Nissen"
+author = "Cory Nissen"
 +++
 
