@@ -8,7 +8,8 @@ on:
 
     
 # deploy main site  
-
+jobs:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
