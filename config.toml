@@ -1,5 +1,5 @@
 theme = "soho"
-baseurl = "https://example.com/"
+baseurl = "http://www.corynissen.com/"
 languageCode = "en"
 title = "Cory Nissen"
 DefaultContentLanguage = "en"
